@@ -1354,7 +1354,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   mouseSensitivity: 100
-  playerBody: {fileID: 223587323}
+  playerBody: {fileID: 1284266374}
 --- !u!1 &1208279726
 GameObject:
   m_ObjectHideFlags: 0
@@ -1565,7 +1565,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   controller: {fileID: 1284266373}
   speed: 12
-  gravity: -9.81
+  gravity: -15
   jumpHeight: 3
   groundCheck: {fileID: 785237464}
   groundDistance: 0.4
