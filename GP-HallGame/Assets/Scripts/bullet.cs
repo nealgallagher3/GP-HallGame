@@ -13,11 +13,11 @@ public class bullet : MonoBehaviour
         
     }
 
-    void OnCollisionEnter(Collision other)
+   /* void OnCollisionEnter(Collision other)
     {
         Debug.Log(other.name);
         Destroy(gameObject);
-    }
+    }*/
 
     
     void Update()
