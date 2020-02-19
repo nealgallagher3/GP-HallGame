@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 544}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -44,22 +44,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 683, y: 494}
-  m_MaxSize: {x: 14004, y: 14044}
+  m_MinSize: {x: 681, y: 494}
+  m_MaxSize: {x: 14002, y: 14044}
   vertical: 0
-<<<<<<< HEAD
-  controlID: 55
-=======
-<<<<<<< HEAD
-  controlID: 55
-=======
-  controlID: 120
-<<<<<<< HEAD
-=======
->>>>>>> cf5cd0c53f6215fb678dc7cdf2f776a42b463c82
->>>>>>> d116856cd58a5a38bc4b139c67da8065d57e675a
->>>>>>> 758814c20b00bfec80ce9928434d1c4b94190645
->>>>>>> d807aa9596d7b6ad2f08a9a1926ab2fc93c2bdbb
+  controlID: 95
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -138,22 +126,7 @@ MonoBehaviour:
   - {fileID: 13}
   - {fileID: 18}
   m_Selected: 0
-  m_LastSelected: 0
-<<<<<<< HEAD
-=======
-=======
-<<<<<<< HEAD
   m_LastSelected: 1
-=======
-<<<<<<< HEAD
-  m_LastSelected: 0
-=======
-  m_LastSelected: 1
->>>>>>> 39c25686a58880cb2c733e63e1a2a33727187189
->>>>>>> cf5cd0c53f6215fb678dc7cdf2f776a42b463c82
->>>>>>> d116856cd58a5a38bc4b139c67da8065d57e675a
->>>>>>> 758814c20b00bfec80ce9928434d1c4b94190645
->>>>>>> d807aa9596d7b6ad2f08a9a1926ab2fc93c2bdbb
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -176,7 +149,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 544}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
 MonoBehaviour:
@@ -364,73 +337,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
-<<<<<<< HEAD
-=======
-=======
     - Assets/Prefabs
->>>>>>> d116856cd58a5a38bc4b139c67da8065d57e675a
->>>>>>> d807aa9596d7b6ad2f08a9a1926ab2fc93c2bdbb
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Prefabs
   m_LastFoldersGridSize: -1
-<<<<<<< HEAD
   m_LastProjectPath: D:\School\Spring 2020\Game Production\Team Project 2\GP-HallGame\GP-HallGame
-=======
-<<<<<<< HEAD
-  m_LastProjectPath: C:\Users\ne679053\Desktop\NG\GP-HallGame\GP-HallGame
-=======
-<<<<<<< HEAD
-  m_LastProjectPath: D:\GP-HallGame\GP-HallGame
-=======
-<<<<<<< HEAD
-  m_LastProjectPath: D:\School\Spring 2020\Game Production\Team Project 2\GP-HallGame\GP-HallGame
-=======
-  m_LastProjectPath: C:\Users\ne679053\Desktop\NG\GP-HallGame\GP-HallGame
->>>>>>> 39c25686a58880cb2c733e63e1a2a33727187189
->>>>>>> cf5cd0c53f6215fb678dc7cdf2f776a42b463c82
->>>>>>> d116856cd58a5a38bc4b139c67da8065d57e675a
->>>>>>> 758814c20b00bfec80ce9928434d1c4b94190645
->>>>>>> d807aa9596d7b6ad2f08a9a1926ab2fc93c2bdbb
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-<<<<<<< HEAD
-    m_SelectedIDs: aa2c0000
-    m_LastClickedID: 11434
+    m_SelectedIDs: 162f0000
+    m_LastClickedID: 12054
     m_ExpandedIDs: 00000000aa2c000000ca9a3b
-=======
-<<<<<<< HEAD
-    m_SelectedIDs: ac2c0000
-    m_LastClickedID: 11436
-    m_ExpandedIDs: 00000000ac2c000000ca9a3b
-=======
-<<<<<<< HEAD
-    m_SelectedIDs: ac2c0000
-    m_LastClickedID: 11436
-    m_ExpandedIDs: 00000000ac2c000000ca9a3b
-=======
-<<<<<<< HEAD
-    m_SelectedIDs: 36300000
-    m_LastClickedID: 12342
-    m_ExpandedIDs: 00000000fc2d00007c30000000ca9a3b
-=======
-<<<<<<< HEAD
-    m_SelectedIDs: ee2c0000
-    m_LastClickedID: 11502
-    m_ExpandedIDs: 00000000ee2c000000ca9a3b
-=======
-    m_SelectedIDs: c22e0000
-    m_LastClickedID: 11970
-    m_ExpandedIDs: 00000000ac2c000000ca9a3b
->>>>>>> 39c25686a58880cb2c733e63e1a2a33727187189
->>>>>>> cf5cd0c53f6215fb678dc7cdf2f776a42b463c82
->>>>>>> d116856cd58a5a38bc4b139c67da8065d57e675a
->>>>>>> 758814c20b00bfec80ce9928434d1c4b94190645
->>>>>>> d807aa9596d7b6ad2f08a9a1926ab2fc93c2bdbb
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -458,27 +378,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-<<<<<<< HEAD
     m_ExpandedIDs: 00000000aa2c0000
-=======
-<<<<<<< HEAD
-    m_ExpandedIDs: 00000000ac2c0000
-=======
-<<<<<<< HEAD
-    m_ExpandedIDs: 00000000ac2c0000
-=======
-<<<<<<< HEAD
-    m_ExpandedIDs: 00000000fc2d0000
-=======
-<<<<<<< HEAD
-    m_ExpandedIDs: 00000000ee2c0000
-=======
-    m_ExpandedIDs: 00000000ac2c0000
->>>>>>> 39c25686a58880cb2c733e63e1a2a33727187189
->>>>>>> cf5cd0c53f6215fb678dc7cdf2f776a42b463c82
->>>>>>> d116856cd58a5a38bc4b139c67da8065d57e675a
->>>>>>> 758814c20b00bfec80ce9928434d1c4b94190645
->>>>>>> d807aa9596d7b6ad2f08a9a1926ab2fc93c2bdbb
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -505,7 +405,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -601,35 +501,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-<<<<<<< HEAD
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 76fbffff
-=======
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 76fbffff
-<<<<<<< HEAD
-=======
-=======
-<<<<<<< HEAD
-      m_SelectedIDs: bef4ffff
-      m_LastClickedID: -2882
-      m_ExpandedIDs: 62c4ffff2cf5ffff303100009e310000
-=======
-<<<<<<< HEAD
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 9efaffff
-=======
-      m_SelectedIDs: b0340000
-      m_LastClickedID: 13488
-      m_ExpandedIDs: caf5ffffe6f7ffff76fbffffca310000
->>>>>>> 39c25686a58880cb2c733e63e1a2a33727187189
->>>>>>> cf5cd0c53f6215fb678dc7cdf2f776a42b463c82
->>>>>>> d116856cd58a5a38bc4b139c67da8065d57e675a
->>>>>>> 758814c20b00bfec80ce9928434d1c4b94190645
->>>>>>> d807aa9596d7b6ad2f08a9a1926ab2fc93c2bdbb
+      m_SelectedIDs: 9a300000
+      m_LastClickedID: 12442
+      m_ExpandedIDs: 76fbffff9a300000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -652,27 +526,7 @@ MonoBehaviour:
     m_LockTracker:
       m_IsLocked: 0
     m_CurrentSortingName: TransformSorting
-<<<<<<< HEAD
-  m_WindowGUID: 6b4537efa3b56e848bc76956933debde
-=======
-<<<<<<< HEAD
-  m_WindowGUID: 2d590e80a1378c3489300cd48fa2f45c
-=======
-<<<<<<< HEAD
-  m_WindowGUID: fd66079090e2e52459bc28731253712d
-=======
-<<<<<<< HEAD
-  m_WindowGUID: 9436750c6b73d72439f171796f6f0cc0
-=======
-<<<<<<< HEAD
-  m_WindowGUID: 9220bdaf94ebb8144b55f9f2af3476a4
-=======
-  m_WindowGUID: 2d590e80a1378c3489300cd48fa2f45c
->>>>>>> 39c25686a58880cb2c733e63e1a2a33727187189
->>>>>>> cf5cd0c53f6215fb678dc7cdf2f776a42b463c82
->>>>>>> d116856cd58a5a38bc4b139c67da8065d57e675a
->>>>>>> 758814c20b00bfec80ce9928434d1c4b94190645
->>>>>>> d807aa9596d7b6ad2f08a9a1926ab2fc93c2bdbb
+  m_WindowGUID: 227049015afcc434084d1a35a7312bd3
 --- !u!114 &16
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -700,27 +554,7 @@ MonoBehaviour:
     height: 554
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
-<<<<<<< HEAD
-  m_WindowGUID: 25f2dab31e92d664c99fe47b61f029ec
-=======
-<<<<<<< HEAD
-  m_WindowGUID: 7cf83a528cdc4af49814f4b96bcce263
-=======
-<<<<<<< HEAD
-  m_WindowGUID: fb5396b5af623e741a55b8ffc1d88b1e
-=======
-<<<<<<< HEAD
-  m_WindowGUID: 9113ee42ed9880347b9a8424f9c51d4a
-=======
-<<<<<<< HEAD
-  m_WindowGUID: b592cbc969c3860438ebe6fa8d1fcd1f
-=======
-  m_WindowGUID: 7cf83a528cdc4af49814f4b96bcce263
->>>>>>> 39c25686a58880cb2c733e63e1a2a33727187189
->>>>>>> cf5cd0c53f6215fb678dc7cdf2f776a42b463c82
->>>>>>> d116856cd58a5a38bc4b139c67da8065d57e675a
->>>>>>> 758814c20b00bfec80ce9928434d1c4b94190645
->>>>>>> d807aa9596d7b6ad2f08a9a1926ab2fc93c2bdbb
+  m_WindowGUID: da04625b508c66e4bae8a1dcc30d948a
   m_Gizmos: 1
   m_SceneIsLit: 1
   m_SceneLighting: 1
@@ -729,39 +563,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-<<<<<<< HEAD
-    m_Target: {x: -5.6033735, y: 10.841801, z: -40.367805}
-    speed: 2
-    m_Value: {x: -5.6033735, y: 10.841801, z: -40.367805}
-=======
-<<<<<<< HEAD
-    m_Target: {x: 5.9631, y: 3.9298918, z: -1.1559836}
-    speed: 2
-    m_Value: {x: 5.9631, y: 3.9298918, z: -1.1559836}
-=======
-<<<<<<< HEAD
     m_Target: {x: 0, y: 0, z: 0}
     speed: 2
     m_Value: {x: 0, y: 0, z: 0}
-=======
-<<<<<<< HEAD
-    m_Target: {x: -22.67465, y: 10.047861, z: 14.859971}
-    speed: 2
-    m_Value: {x: -22.67465, y: 10.047861, z: 14.859971}
-=======
-<<<<<<< HEAD
-    m_Target: {x: -2.0625734, y: 2.1402602, z: 0.5643873}
-    speed: 2
-    m_Value: {x: -2.0625734, y: 2.1402602, z: 0.5643873}
-=======
-    m_Target: {x: -3.772336, y: 5.4197574, z: 4.3214664}
-    speed: 2
-    m_Value: {x: -3.772336, y: 5.4197574, z: 4.3214664}
->>>>>>> 39c25686a58880cb2c733e63e1a2a33727187189
->>>>>>> cf5cd0c53f6215fb678dc7cdf2f776a42b463c82
->>>>>>> d116856cd58a5a38bc4b139c67da8065d57e675a
->>>>>>> 758814c20b00bfec80ce9928434d1c4b94190645
->>>>>>> d807aa9596d7b6ad2f08a9a1926ab2fc93c2bdbb
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -790,61 +594,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-<<<<<<< HEAD
-    m_Target: {x: 0.00063601456, y: 0.84528434, z: 0.0010061675, w: -0.5343162}
-    speed: 2
-    m_Value: {x: 0.00063601433, y: 0.84528404, z: 0.0010061671, w: -0.534316}
-  m_Size:
-    m_Target: 37.245205
-    speed: 2
-    m_Value: 37.245205
-=======
-<<<<<<< HEAD
-    m_Target: {x: -0.00016695625, y: -0.8381667, z: 0.00026036773, w: -0.5454261}
-    speed: 2
-    m_Value: {x: -0.00016656442, y: -0.8389784, z: 0.00026061616, w: -0.54416466}
-=======
-<<<<<<< HEAD
     m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
-=======
-<<<<<<< HEAD
-    m_Target: {x: -0.10315595, y: -0.6571092, z: 0.09147452, w: -0.7410985}
-    speed: 2
-    m_Value: {x: -0.10301717, y: -0.6582109, z: 0.09162786, w: -0.7401016}
-  m_Size:
-    m_Target: 32.21671
-    speed: 2
-    m_Value: 32.21671
-=======
-<<<<<<< HEAD
-    m_Target: {x: -0.07694854, y: 0.90058136, z: -0.17816342, w: -0.38896}
-    speed: 2
-    m_Value: {x: -0.077215694, y: 0.89999694, z: -0.1780478, w: -0.39031044}
-  m_Size:
-    m_Target: 43.469154
-    speed: 2
-    m_Value: 41.59728
-=======
-    m_Target: {x: -0.04851397, y: -0.6405639, z: 0.04060978, w: -0.76530176}
->>>>>>> d116856cd58a5a38bc4b139c67da8065d57e675a
     speed: 2
     m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
->>>>>>> 758814c20b00bfec80ce9928434d1c4b94190645
   m_Size:
     m_Target: 10
     speed: 2
-<<<<<<< HEAD
-    m_Value: 7.382342
-=======
-<<<<<<< HEAD
     m_Value: 10
-=======
-    m_Value: 7.382449
->>>>>>> 39c25686a58880cb2c733e63e1a2a33727187189
->>>>>>> cf5cd0c53f6215fb678dc7cdf2f776a42b463c82
->>>>>>> d116856cd58a5a38bc4b139c67da8065d57e675a
->>>>>>> 758814c20b00bfec80ce9928434d1c4b94190645
->>>>>>> d807aa9596d7b6ad2f08a9a1926ab2fc93c2bdbb
   m_Ortho:
     m_Target: 0
     speed: 2

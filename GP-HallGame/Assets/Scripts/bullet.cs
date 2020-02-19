@@ -6,6 +6,7 @@ public class bullet : MonoBehaviour
 {
     public float speed = 20f;
     public Rigidbody rig;
+    
    
     void Start()
     {
@@ -13,11 +14,11 @@ public class bullet : MonoBehaviour
         
     }
 
-   /* void OnCollisionEnter(Collision other)
+    void OnTriggerEnter(Collider other)
     {
         Debug.Log(other.name);
         Destroy(gameObject);
-    }*/
+    }
 
     
     void Update()
