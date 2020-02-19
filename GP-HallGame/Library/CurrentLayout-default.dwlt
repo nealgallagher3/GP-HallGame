@@ -47,7 +47,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 494}
   m_MaxSize: {x: 14004, y: 14044}
   vertical: 0
-  controlID: 120
+  controlID: 55
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -126,11 +126,7 @@ MonoBehaviour:
   - {fileID: 13}
   - {fileID: 18}
   m_Selected: 0
-<<<<<<< HEAD
   m_LastSelected: 0
-=======
-  m_LastSelected: 1
->>>>>>> 39c25686a58880cb2c733e63e1a2a33727187189
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -341,7 +337,6 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-<<<<<<< HEAD
     - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
@@ -349,28 +344,13 @@ MonoBehaviour:
   - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\GP-HallGame\GP-HallGame
-=======
-    - Assets/Scenes
-  m_ViewMode: 1
-  m_StartGridSize: 64
-  m_LastFolders:
-  - Assets/Scenes
-  m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\ne679053\Desktop\NG\GP-HallGame\GP-HallGame
->>>>>>> 39c25686a58880cb2c733e63e1a2a33727187189
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-<<<<<<< HEAD
-    m_SelectedIDs: ee2c0000
-    m_LastClickedID: 11502
-    m_ExpandedIDs: 00000000ee2c000000ca9a3b
-=======
-    m_SelectedIDs: c22e0000
-    m_LastClickedID: 11970
+    m_SelectedIDs: ac2c0000
+    m_LastClickedID: 11436
     m_ExpandedIDs: 00000000ac2c000000ca9a3b
->>>>>>> 39c25686a58880cb2c733e63e1a2a33727187189
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -398,11 +378,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-<<<<<<< HEAD
-    m_ExpandedIDs: 00000000ee2c0000
-=======
     m_ExpandedIDs: 00000000ac2c0000
->>>>>>> 39c25686a58880cb2c733e63e1a2a33727187189
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -429,7 +405,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -525,15 +501,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-<<<<<<< HEAD
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 9efaffff
-=======
-      m_SelectedIDs: b0340000
-      m_LastClickedID: 13488
-      m_ExpandedIDs: caf5ffffe6f7ffff76fbffffca310000
->>>>>>> 39c25686a58880cb2c733e63e1a2a33727187189
+      m_ExpandedIDs: 76fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -556,11 +526,7 @@ MonoBehaviour:
     m_LockTracker:
       m_IsLocked: 0
     m_CurrentSortingName: TransformSorting
-<<<<<<< HEAD
-  m_WindowGUID: 9220bdaf94ebb8144b55f9f2af3476a4
-=======
-  m_WindowGUID: 2d590e80a1378c3489300cd48fa2f45c
->>>>>>> 39c25686a58880cb2c733e63e1a2a33727187189
+  m_WindowGUID: fd66079090e2e52459bc28731253712d
 --- !u!114 &16
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -588,11 +554,7 @@ MonoBehaviour:
     height: 554
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
-<<<<<<< HEAD
-  m_WindowGUID: b592cbc969c3860438ebe6fa8d1fcd1f
-=======
-  m_WindowGUID: 7cf83a528cdc4af49814f4b96bcce263
->>>>>>> 39c25686a58880cb2c733e63e1a2a33727187189
+  m_WindowGUID: fb5396b5af623e741a55b8ffc1d88b1e
   m_Gizmos: 1
   m_SceneIsLit: 1
   m_SceneLighting: 1
@@ -601,15 +563,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-<<<<<<< HEAD
-    m_Target: {x: -2.0625734, y: 2.1402602, z: 0.5643873}
+    m_Target: {x: 0, y: 0, z: 0}
     speed: 2
-    m_Value: {x: -2.0625734, y: 2.1402602, z: 0.5643873}
-=======
-    m_Target: {x: -3.772336, y: 5.4197574, z: 4.3214664}
-    speed: 2
-    m_Value: {x: -3.772336, y: 5.4197574, z: 4.3214664}
->>>>>>> 39c25686a58880cb2c733e63e1a2a33727187189
+    m_Value: {x: 0, y: 0, z: 0}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -638,23 +594,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-<<<<<<< HEAD
-    m_Target: {x: -0.07694854, y: 0.90058136, z: -0.17816342, w: -0.38896}
+    m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
     speed: 2
-    m_Value: {x: -0.077215694, y: 0.89999694, z: -0.1780478, w: -0.39031044}
+    m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_Size:
-    m_Target: 43.469154
+    m_Target: 10
     speed: 2
-    m_Value: 41.59728
-=======
-    m_Target: {x: -0.04851397, y: -0.6405639, z: 0.04060978, w: -0.76530176}
-    speed: 2
-    m_Value: {x: -0.049723867, y: -0.63935, z: 0.041495815, w: -0.76618356}
-  m_Size:
-    m_Target: 7.382342
-    speed: 2
-    m_Value: 7.382449
->>>>>>> 39c25686a58880cb2c733e63e1a2a33727187189
+    m_Value: 10
   m_Ortho:
     m_Target: 0
     speed: 2
