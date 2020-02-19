@@ -21,7 +21,11 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
+<<<<<<< HEAD
   m_MinSize: {x: 950, y: 394}
+=======
+  m_MinSize: {x: 950, y: 300}
+>>>>>>> 5a8ed7dc5cd66c69ce037ded7d5beee83648cd0d
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -47,7 +51,11 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 344}
   m_MaxSize: {x: 12008, y: 8044}
   vertical: 0
+<<<<<<< HEAD
   controlID: 12
+=======
+  controlID: 98
+>>>>>>> 5a8ed7dc5cd66c69ce037ded7d5beee83648cd0d
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -337,20 +345,26 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Prefabs
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\School\Spring 2020\Game Production\Team Project 2\GP-HallGame\GP-HallGame
+  m_LastProjectPath: E:\GP-HallGame\GP-HallGame
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: d62e0000
     m_LastClickedID: 11990
     m_ExpandedIDs: 00000000aa2c000000ca9a3b
+=======
+    m_SelectedIDs: a42c0000
+    m_LastClickedID: 11428
+    m_ExpandedIDs: 00000000a42c000000ca9a3b
+>>>>>>> 5a8ed7dc5cd66c69ce037ded7d5beee83648cd0d
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -405,7 +419,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c623000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -503,7 +517,11 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
+<<<<<<< HEAD
       m_ExpandedIDs: 76fbffff48300000
+=======
+      m_ExpandedIDs: 76fbffff
+>>>>>>> 5a8ed7dc5cd66c69ce037ded7d5beee83648cd0d
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
