@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerMover : MonoBehaviour
 {
@@ -8,6 +9,13 @@ public class PlayerMover : MonoBehaviour
     public float speed = 12f;
     public float gravity = -9.81f;
     public float jumpHeight = 3f;
+
+    public GameObject death;
+
+    public int healthValue = 100;
+
+    public Text lifeText;
+    public Text endText;
 
     public Transform groundCheck;
     public float groundDistance = 0.4f;
@@ -17,7 +25,11 @@ public class PlayerMover : MonoBehaviour
     bool isGrounded;
 
 
-    // Update is called once per frame
+    private void Start()
+    {
+        lifeText.text = "Health: " + healthValue.ToString();
+        endText.text = "";
+    }
     void Update()
     {
         isGrounded = Physics.CheckSphere(groundCheck.position, groundDistance, groundMask);
@@ -40,5 +52,23 @@ public class PlayerMover : MonoBehaviour
         velocity.y += gravity * Time.deltaTime;
 
         controller.Move(velocity * Time.deltaTime);
+    }
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.CompareTag("Enemy"))
+        {
+            healthValue -= 20;
+            lifeText.text = "Health: " + healthValue.ToString();
+            die();
+        }
+    }
+    void die()
+    {
+        if (healthValue <= 0)
+        {
+            endText.text = "You lose! Press 'U' for restart!";
+            Destroy(gameObject);
+        }
+
     }
 }
