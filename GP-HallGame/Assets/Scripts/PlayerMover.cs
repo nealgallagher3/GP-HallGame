@@ -61,14 +61,25 @@ public class PlayerMover : MonoBehaviour
             lifeText.text = "Health: " + healthValue.ToString();
             die();
         }
+        if (other.gameObject.CompareTag("Win"))
+        {
+            other.gameObject.SetActive(false);
+            win();
+        }
     }
     void die()
     {
         if (healthValue <= 0)
         {
             endText.text = "You lose! Press 'U' for restart!";
-            Destroy(gameObject);
+            death.SetActive(false);
+
         }
 
+    }
+    void win()
+    {
+        endText.text = "You Win! Press 'U' for restart!";
+        death.SetActive(false);
     }
 }
