@@ -53,9 +53,6 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 494}
   m_MaxSize: {x: 14004, y: 14044}
   vertical: 0
-<<<<<<< HEAD
-  controlID: 124
-=======
   controlID: 129
 >>>>>>> 0111ca0eaaca5704aa03a56977b25d5d1fb0dbf9
 --- !u!114 &3
@@ -239,9 +236,6 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 494}
   m_MaxSize: {x: 10002, y: 14044}
   vertical: 1
-<<<<<<< HEAD
-  controlID: 60
-=======
   controlID: 61
 >>>>>>> 0111ca0eaaca5704aa03a56977b25d5d1fb0dbf9
 --- !u!114 &10
@@ -274,9 +268,6 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 222}
   m_MaxSize: {x: 8006, y: 4022}
   vertical: 0
-<<<<<<< HEAD
-  controlID: 61
-=======
   controlID: 62
 >>>>>>> 0111ca0eaaca5704aa03a56977b25d5d1fb0dbf9
 --- !u!114 &11
@@ -383,11 +374,7 @@ MonoBehaviour:
   - Assets/Prefabs
   m_LastFoldersGridSize: -1
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_LastProjectPath: C:\Users\ne679053\Desktop\NG\GP-HallGame\GP-HallGame
-=======
-  m_LastProjectPath: D:\School\Spring 2020\Game Production\Team Project 2\GP-HallGame\GP-HallGame
->>>>>>> b162f417640fc4883b126ffcea0912f06782b0b4
 =======
   m_LastProjectPath: C:\Users\br369713\Desktop\GP-HallGame\GP-HallGame
 >>>>>>> 0111ca0eaaca5704aa03a56977b25d5d1fb0dbf9
@@ -396,15 +383,9 @@ MonoBehaviour:
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
 <<<<<<< HEAD
-<<<<<<< HEAD
     m_SelectedIDs: fc300000
     m_LastClickedID: 12540
     m_ExpandedIDs: 00000000ea2d000000ca9a3b
-=======
-    m_SelectedIDs: ce300000
-    m_LastClickedID: 12494
-    m_ExpandedIDs: 00000000142e000000ca9a3b
->>>>>>> b162f417640fc4883b126ffcea0912f06782b0b4
 =======
     m_SelectedIDs: 902f0000
     m_LastClickedID: 12176
@@ -438,11 +419,7 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
-<<<<<<< HEAD
     m_ExpandedIDs: 00000000ea2d0000
-=======
-    m_ExpandedIDs: 00000000142e0000
->>>>>>> b162f417640fc4883b126ffcea0912f06782b0b4
 =======
     m_ExpandedIDs: 00000000b22c0000
 >>>>>>> 0111ca0eaaca5704aa03a56977b25d5d1fb0dbf9
@@ -542,7 +519,7 @@ MonoBehaviour:
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 23
+  m_LastVerticalScrollValue: 0
 --- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -578,11 +555,6 @@ MonoBehaviour:
       m_ExpandedIDs: 02f8feff6074ffff6a74ffff1275ffff1c75ffff36f0ffff7afaffff50320000e232000004330000
 =======
       scrollPos: {x: 0, y: 0}
-<<<<<<< HEAD
-      m_SelectedIDs: c2320000
-      m_LastClickedID: 12994
-      m_ExpandedIDs: eef9ffff0c330000d2330000
-=======
       m_SelectedIDs: 
       m_LastClickedID: 0
       m_ExpandedIDs: 76fbffff
@@ -651,15 +623,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_Position:
 <<<<<<< HEAD
-<<<<<<< HEAD
     m_Target: {x: 16.065739, y: 15.75703, z: 5.9614167}
     speed: 2
     m_Value: {x: 16.065739, y: 15.75703, z: 5.9614167}
-=======
-    m_Target: {x: 5.987484, y: 5.505303, z: -74.00915}
-    speed: 2
-    m_Value: {x: 5.987484, y: 5.505303, z: -74.00915}
->>>>>>> b162f417640fc4883b126ffcea0912f06782b0b4
 =======
     m_Target: {x: -1.013148, y: 9.473265, z: -20.532066}
     speed: 2
@@ -694,19 +660,9 @@ MonoBehaviour:
       m_Value: 0
   m_Rotation:
 <<<<<<< HEAD
-<<<<<<< HEAD
     m_Target: {x: 0.03617035, y: -0.96367997, z: 0.19219726, w: 0.18262333}
     speed: 2
     m_Value: {x: 0.03645353, y: -0.96327084, z: 0.19211605, w: 0.184043}
-=======
-    m_Target: {x: -0.052402437, y: -0.93125594, z: 0.1481749, w: -0.32897663}
-    speed: 2
-    m_Value: {x: -0.052398115, y: -0.9311791, z: 0.14816268, w: -0.32894948}
-  m_Size:
-    m_Target: 6.866854
-    speed: 2
-    m_Value: 6.866854
->>>>>>> b162f417640fc4883b126ffcea0912f06782b0b4
 =======
     m_Target: {x: 0.068680294, y: -0.12741101, z: 0.008933306, w: 0.98950636}
     speed: 2
@@ -716,7 +672,6 @@ MonoBehaviour:
     m_Target: 29.197006
     speed: 2
     m_Value: 27.939718
->>>>>>> 0111ca0eaaca5704aa03a56977b25d5d1fb0dbf9
   m_Ortho:
     m_Target: 0
     speed: 2

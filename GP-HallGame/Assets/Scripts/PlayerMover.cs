@@ -11,13 +11,11 @@ public class PlayerMover : MonoBehaviour
     public float jumpHeight = 3f;
 
     public GameObject death;
-    public GameObject gameOverMenu;
-    public GameObject winMenu;
-    public GameObject pauseMenu;
 
     public int healthValue = 100;
 
     public Text lifeText;
+    public Text endText;
 
     public Transform groundCheck;
     public float groundDistance = 0.4f;
@@ -30,7 +28,7 @@ public class PlayerMover : MonoBehaviour
     private void Start()
     {
         lifeText.text = "Health: " + healthValue.ToString();
-       
+        endText.text = "";
     }
     void Update()
     {
@@ -73,17 +71,15 @@ public class PlayerMover : MonoBehaviour
     {
         if (healthValue <= 0)
         {
-            gameOverMenu.SetActive(true);
+            endText.text = "You lose! Press 'U' for restart!";
             death.SetActive(false);
-            speed = 0f;
 
         }
 
     }
     void win()
     {
-        winMenu.SetActive(true);
+        endText.text = "You Win! Press 'U' for restart!";
         death.SetActive(false);
-        speed = 0f;
     }
 }
