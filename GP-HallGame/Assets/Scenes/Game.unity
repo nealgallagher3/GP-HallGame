@@ -16215,6 +16215,9 @@ BoxCollider:
 =======
   m_Size: {x: 0.9104803, y: 1, z: 0.96455383}
   m_Center: {x: 0.00000004470348, y: 0, z: -0.021921918}
+<<<<<<< HEAD
+>>>>>>> parent of b162f41... arrows and diamonds
+=======
 >>>>>>> parent of b162f41... arrows and diamonds
 --- !u!1001 &7735747810913195489
 PrefabInstance:
