@@ -1182,6 +1182,7 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: 694d2e1fb221e5c4a8dd7451977527c2, type: 3}
 --- !u!1 &175506549
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   m_Size: {x: 0.61, y: 1, z: 0.24}
   m_Center: {x: 0, y: 0.5, z: 0}
@@ -1238,6 +1239,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 --- !u!1 &342485574
 >>>>>>> parent of b162f41... arrows and diamonds
+=======
+>>>>>>> parent of 2bbcb41... Level Layout
 =======
 >>>>>>> parent of 2bbcb41... Level Layout
 GameObject:
@@ -16215,10 +16218,13 @@ BoxCollider:
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0.5, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   m_Size: {x: 0.9104803, y: 1, z: 0.96455383}
   m_Center: {x: 0.00000004470348, y: 0, z: -0.021921918}
 >>>>>>> parent of b162f41... arrows and diamonds
+=======
+>>>>>>> parent of 2bbcb41... Level Layout
 =======
 >>>>>>> parent of 2bbcb41... Level Layout
 --- !u!1001 &7735747810913195489
